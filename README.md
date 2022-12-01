@@ -40,6 +40,7 @@ Also like last year, I will continue using the same organization. I will also ti
 
 | Day  | Date/Time Completed | Name                    |
 | :-:  | :-----------------: | :---------------------- |
+|  1   | Dec 1 - 09:58       | Calorie Counting        |
 
 ## Get Involved
 
