@@ -7,7 +7,11 @@ def get_lines():
     return lines
 
 def time_func(func):
+    answer = None
     start_time = time()
-    func()
+    for i in range(0, 10):
+        answer = func()
     end_time = time()
-    print(end_time - start_time)
+    elapsed_time = end_time - start_time
+    average = elapsed_time / 10
+    return (average, answer)
