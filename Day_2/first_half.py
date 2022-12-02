@@ -36,6 +36,4 @@ def process():
     return summed_scores
 
 if __name__ == '__main__':
-    response = time_func(process)
-    print(response[1])
-    print(response[0])
+    time_func(process)

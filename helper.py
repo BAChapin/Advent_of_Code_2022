@@ -14,4 +14,5 @@ def time_func(func):
     end_time = time()
     elapsed_time = end_time - start_time
     average = elapsed_time / 10
-    return (average, answer)
+    print('Answer:', answer)
+    print('Average Elapsed Time:', average)
