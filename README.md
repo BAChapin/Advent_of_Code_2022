@@ -44,6 +44,7 @@ Also like last year, I will continue using the same organization. I will also ti
 |  2   | Dec 2 - 14:50       | Rock Paper Scissors     |
 |  3   | Dec 3 - 14:53       | Camp Cleanup            |
 |  4   | Dec 4 - 17:02       | Rucksack Reorganization |
+|  5   | Dec 5 - 12:33       | Supply Stacks           |
 
 ## Get Involved
 
