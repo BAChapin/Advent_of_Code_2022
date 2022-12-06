@@ -15,8 +15,6 @@ def scan(line):
             if all_unique:
                 return i
 
-
-
 def process():
     lines = get_lines()
     index = scan(lines[0])
