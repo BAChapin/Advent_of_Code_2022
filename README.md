@@ -45,6 +45,7 @@ Also like last year, I will continue using the same organization. I will also ti
 |  3   | Dec 3 - 14:53       | Camp Cleanup            |
 |  4   | Dec 4 - 17:02       | Rucksack Reorganization |
 |  5   | Dec 5 - 12:33       | Supply Stacks           |
+|  6   | Dec 6 - 09:45       | Tuning Trouble          |
 
 ## Get Involved
 
