@@ -47,6 +47,7 @@ Also like last year, I will continue using the same organization. I will also ti
 |  5   | Dec 5 - 12:33       | Supply Stacks           |
 |  6   | Dec 6 - 09:45       | Tuning Trouble          |
 |  7   | Dec 8 - 08:15       | No Space Left On Device |
+|  8   | Dec 8 - 10:11       | Treetop Tree House      |
 
 ## Get Involved
 
