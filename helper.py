@@ -6,6 +6,10 @@ def get_lines():
     file.close()
     return lines
 
+def get_stripped_lines():
+    with open('input.txt', 'r') as puzzle_input:
+        return [line.strip() for line in puzzle_input.readlines()]
+
 def time_func(func):
     answer = None
     start_time = time()
