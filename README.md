@@ -49,6 +49,7 @@ Also like last year, I will continue using the same organization. I will also ti
 |  7   | Dec 8 - 08:15       | No Space Left On Device |
 |  8   | Dec 8 - 10:11       | Treetop Tree House      |
 |  9   | Dec 10 - 09:30      | Rope Bridge             |
+|  10  | Dec 10 - 12:55      | Cathode-Ray Tube        |
 
 ## Get Involved
 
