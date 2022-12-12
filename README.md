@@ -50,6 +50,7 @@ Also like last year, I will continue using the same organization. I will also ti
 |  8   | Dec 8 - 10:11       | Treetop Tree House      |
 |  9   | Dec 10 - 09:30      | Rope Bridge             |
 |  10  | Dec 10 - 12:55      | Cathode-Ray Tube        |
+|  11  | Dec 11 - 21:31      | Monkey in the Middle    |
 
 ## Get Involved
 
