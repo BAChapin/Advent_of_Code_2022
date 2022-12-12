@@ -2,8 +2,8 @@
 
 | Part # | Change Summary<sup>1</sup>        | Date           | Time<sup>2</sup> |
 | :----: | :-------------------------------- | :------------: | :--------------: |
-| 1      | Initial Design                    | Dec 10 - 20:16 | 1.5 ms           |
-| 2      | Initial Design                    | Dec 10 - 21:31 | 0.8 s            |
+| 1      | Initial Design                    | Dec 11 - 20:16 | 1.5 ms           |
+| 2      | Initial Design                    | Dec 11 - 21:31 | 0.8 s            |
 
 <sup>1</sup> This will clarify the change that was made to change the time metrics.
 
